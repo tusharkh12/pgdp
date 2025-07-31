@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="377c19eb-10cc-43ab-a020-728363889e85" name="Changes" comment="done">
+      <change beforePath="$PROJECT_DIR$/src/pgdp/security/LightPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pgdp/security/LightPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pgdp/security/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pgdp/security/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ISERZGZEw1ChOtBPUPYhtcQVsA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pgdp.security.Main" />
+      <module name="W07H02---Sicherheit-Geht-Vor.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.security.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrackTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W07H02---Sicherheit-Geht-Vor.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.security.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.security" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.security.TrackTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrackTest.createLappedCarAtArrayBiggerThanThree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W07H02---Sicherheit-Geht-Vor.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.security.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.security" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.security.TrackTest" />
+      <option name="METHOD_NAME" value="createLappedCarAtArrayBiggerThanThree" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrackTest.createLappedCarAtSmallArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W07H02---Sicherheit-Geht-Vor.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.security.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.security" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.security.TrackTest" />
+      <option name="METHOD_NAME" value="createLappedCarAtSmallArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrackTest.removeLappedCarAtSmallArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W07H02---Sicherheit-Geht-Vor.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.security.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.security" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.security.TrackTest" />
+      <option name="METHOD_NAME" value="removeLappedCarAtSmallArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TrackTest" />
+        <item itemvalue="JUnit.TrackTest.createLappedCarAtArrayBiggerThanThree" />
+        <item itemvalue="JUnit.TrackTest.createLappedCarAtSmallArray" />
+        <item itemvalue="JUnit.TrackTest.removeLappedCarAtSmallArray" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="377c19eb-10cc-43ab-a020-728363889e85" name="Changes" comment="" />
+      <created>1670166576469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670166576469</updated>
+      <workItem from="1670166577530" duration="10772000" />
+      <workItem from="1670245471828" duration="8363000" />
+      <workItem from="1670338191015" duration="722000" />
+      <workItem from="1670430246707" duration="15000" />
+      <workItem from="1670589129805" duration="25000" />
+      <workItem from="1670591158751" duration="57000" />
+      <workItem from="1671985926161" duration="311000" />
+      <workItem from="1671992316596" duration="597000" />
+      <workItem from="1672016136624" duration="219000" />
+    </task>
+    <task id="LOCAL-00001" summary="light">
+      <created>1670170986122</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670170986122</updated>
+    </task>
+    <task id="LOCAL-00002" summary="light">
+      <created>1670171647240</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670171647240</updated>
+    </task>
+    <task id="LOCAL-00003" summary="light">
+      <created>1670171935080</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670171935080</updated>
+    </task>
+    <task id="LOCAL-00004" summary="light">
+      <created>1670175580012</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670175580012</updated>
+    </task>
+    <task id="LOCAL-00005" summary="done">
+      <created>1670178055963</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670178055963</updated>
+    </task>
+    <task id="LOCAL-00006" summary="done">
+      <created>1670178134084</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1670178134084</updated>
+    </task>
+    <task id="LOCAL-00007" summary="done">
+      <created>1670178241440</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1670178241440</updated>
+    </task>
+    <task id="LOCAL-00008" summary="done">
+      <created>1670178354011</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1670178354011</updated>
+    </task>
+    <task id="LOCAL-00009" summary="done">
+      <created>1670178535760</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1670178535760</updated>
+    </task>
+    <task id="LOCAL-00010" summary="done">
+      <created>1670178667309</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1670178667309</updated>
+    </task>
+    <task id="LOCAL-00011" summary="done">
+      <created>1670179232192</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1670179232192</updated>
+    </task>
+    <task id="LOCAL-00012" summary="done">
+      <created>1670246280500</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1670246280500</updated>
+    </task>
+    <task id="LOCAL-00013" summary="done">
+      <created>1670246513500</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1670246513501</updated>
+    </task>
+    <task id="LOCAL-00014" summary="done">
+      <created>1670246586424</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1670246586424</updated>
+    </task>
+    <task id="LOCAL-00015" summary="done">
+      <created>1670246657184</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1670246657184</updated>
+    </task>
+    <task id="LOCAL-00016" summary="done">
+      <created>1670247539672</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1670247539672</updated>
+    </task>
+    <task id="LOCAL-00017" summary="done">
+      <created>1670247774773</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1670247774773</updated>
+    </task>
+    <task id="LOCAL-00018" summary="done">
+      <created>1670248204470</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1670248204470</updated>
+    </task>
+    <task id="LOCAL-00019" summary="done">
+      <created>1670248320523</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1670248320523</updated>
+    </task>
+    <task id="LOCAL-00020" summary="done">
+      <created>1670248382722</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1670248382722</updated>
+    </task>
+    <task id="LOCAL-00021" summary="done">
+      <created>1670248455450</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1670248455450</updated>
+    </task>
+    <task id="LOCAL-00022" summary="done">
+      <created>1670249414878</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1670249414878</updated>
+    </task>
+    <task id="LOCAL-00023" summary="done">
+      <created>1670250009913</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1670250009913</updated>
+    </task>
+    <task id="LOCAL-00024" summary="done">
+      <created>1670251449280</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1670251449280</updated>
+    </task>
+    <task id="LOCAL-00025" summary="done">
+      <created>1670252575540</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1670252575540</updated>
+    </task>
+    <task id="LOCAL-00026" summary="done">
+      <created>1670253014732</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1670253014732</updated>
+    </task>
+    <task id="LOCAL-00027" summary="done">
+      <created>1670253100416</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1670253100417</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="light" />
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/pgdp/security/Track.java</url>
+          <line>125</line>
+          <properties class="pgdp.security.Track" method="removeLappedCarAt">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

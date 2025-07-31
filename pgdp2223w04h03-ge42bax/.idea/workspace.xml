@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3fb127b3-cdcf-4094-be07-d9312e03d3ec" name="Changes" comment="last method" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HdaiwbeWDPqaUV6Sn3xkpL8AT3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.UnitTest">
+    <configuration name="QuickHull" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pgdp.convexhull.QuickHull" />
+      <module name="W04H03---PenguHull.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.convexhull.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClosedConvexHullExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W04H03---PenguHull.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.convexhull.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.convexhull" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.convexhull.ClosedConvexHullExample" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenConvexHullExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W04H03---PenguHull.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.convexhull.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.convexhull" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.convexhull.OpenConvexHullExample" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W04H03---PenguHull.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.convexhull.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.convexhull" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.convexhull.UnitTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitTest.testQuickHull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W04H03---PenguHull.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.convexhull.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.convexhull" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.convexhull.UnitTest" />
+      <option name="METHOD_NAME" value="testQuickHull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UnitTest" />
+        <item itemvalue="JUnit.UnitTest.testQuickHull" />
+        <item itemvalue="JUnit.OpenConvexHullExample" />
+        <item itemvalue="JUnit.ClosedConvexHullExample" />
+        <item itemvalue="Application.QuickHull" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fb127b3-cdcf-4094-be07-d9312e03d3ec" name="Changes" comment="" />
+      <created>1668617544791</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668617544791</updated>
+      <workItem from="1668617545973" duration="7164000" />
+      <workItem from="1668714291013" duration="12718000" />
+      <workItem from="1668774663026" duration="11874000" />
+      <workItem from="1668947140505" duration="4928000" />
+      <workItem from="1668957158026" duration="21000" />
+      <workItem from="1669230166235" duration="615000" />
+    </task>
+    <task id="LOCAL-00001" summary="1st method">
+      <created>1668624052675</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668624052675</updated>
+    </task>
+    <task id="LOCAL-00002" summary="combine">
+      <created>1668624216886</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668624216886</updated>
+    </task>
+    <task id="LOCAL-00003" summary="combine">
+      <created>1668625716100</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668625716100</updated>
+    </task>
+    <task id="LOCAL-00004" summary="combine">
+      <created>1668718192413</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668718192413</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2nd method">
+      <created>1668724174196</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668724174196</updated>
+    </task>
+    <task id="LOCAL-00006" summary="2nd method">
+      <created>1668726910974</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668726910974</updated>
+    </task>
+    <task id="LOCAL-00007" summary="2nd method">
+      <created>1668726971966</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668726971966</updated>
+    </task>
+    <task id="LOCAL-00008" summary="2nd method">
+      <created>1668727005006</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668727005006</updated>
+    </task>
+    <task id="LOCAL-00009" summary="3rd">
+      <created>1668730248086</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1668730248086</updated>
+    </task>
+    <task id="LOCAL-00010" summary="last method">
+      <created>1668778007710</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1668778007710</updated>
+    </task>
+    <task id="LOCAL-00011" summary="last method">
+      <created>1668781355532</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1668781355532</updated>
+    </task>
+    <task id="LOCAL-00012" summary="last method">
+      <created>1668781462950</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1668781462950</updated>
+    </task>
+    <task id="LOCAL-00013" summary="last method">
+      <created>1668951497441</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1668951497441</updated>
+    </task>
+    <task id="LOCAL-00014" summary="last method">
+      <created>1668951641234</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1668951641234</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1st method" />
+    <MESSAGE value="combine" />
+    <MESSAGE value="2nd method" />
+    <MESSAGE value="3rd" />
+    <MESSAGE value="last method" />
+    <option name="LAST_COMMIT_MESSAGE" value="last method" />
+  </component>
+</project>

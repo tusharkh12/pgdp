@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e764b1e-4aff-4e78-9e2f-b3c4f2213a45" name="Changes" comment="6th method" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HGVzcZHB0B3VUaJA14gyMoYaOM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.ArrayTest.testInvert">
+    <configuration name="ArrayTest.testBubbleSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W03H02---Testing.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.tests" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.tests.ArrayTest" />
+      <option name="METHOD_NAME" value="testBubbleSort" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayTest.testIntersect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W03H02---Testing.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.tests" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.tests.ArrayTest" />
+      <option name="METHOD_NAME" value="testIntersect" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayTest.testInvert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W03H02---Testing.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.tests" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.tests.ArrayTest" />
+      <option name="METHOD_NAME" value="testInvert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayTest.testLinearize" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W03H02---Testing.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.tests" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.tests.ArrayTest" />
+      <option name="METHOD_NAME" value="testLinearize" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayTest.testPrint" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W03H02---Testing.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.tests" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.tests.ArrayTest" />
+      <option name="METHOD_NAME" value="testPrint" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ArrayTest.testInvert" />
+        <item itemvalue="JUnit.ArrayTest.testBubbleSort" />
+        <item itemvalue="JUnit.ArrayTest.testLinearize" />
+        <item itemvalue="JUnit.ArrayTest.testIntersect" />
+        <item itemvalue="JUnit.ArrayTest.testPrint" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e764b1e-4aff-4e78-9e2f-b3c4f2213a45" name="Changes" comment="" />
+      <created>1667911671370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667911671370</updated>
+      <workItem from="1667911672676" duration="13912000" />
+      <workItem from="1668095929655" duration="1789000" />
+      <workItem from="1668124732270" duration="1254000" />
+      <workItem from="1668200979119" duration="648000" />
+      <workItem from="1668202767063" duration="10000" />
+    </task>
+    <task id="LOCAL-00001" summary="print method">
+      <created>1667916904219</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667916904220</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2ndmethod">
+      <created>1667917664574</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667917664574</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2ndmethod">
+      <created>1667917846748</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667917846748</updated>
+    </task>
+    <task id="LOCAL-00004" summary="4th method">
+      <created>1667919492454</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667919492454</updated>
+    </task>
+    <task id="LOCAL-00005" summary="4th method">
+      <created>1667919622613</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667919622613</updated>
+    </task>
+    <task id="LOCAL-00006" summary="4th method">
+      <created>1667921154702</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667921154702</updated>
+    </task>
+    <task id="LOCAL-00007" summary="4th method">
+      <created>1667921291158</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667921291158</updated>
+    </task>
+    <task id="LOCAL-00008" summary="4th method">
+      <created>1667921426983</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667921426983</updated>
+    </task>
+    <task id="LOCAL-00009" summary="4th method">
+      <created>1667921535232</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1667921535232</updated>
+    </task>
+    <task id="LOCAL-00010" summary="4th method">
+      <created>1667921659289</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1667921659289</updated>
+    </task>
+    <task id="LOCAL-00011" summary="4th method">
+      <created>1667921741708</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1667921741708</updated>
+    </task>
+    <task id="LOCAL-00012" summary="4th method">
+      <created>1667921778601</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1667921778601</updated>
+    </task>
+    <task id="LOCAL-00013" summary="4th method">
+      <created>1667921889519</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1667921889519</updated>
+    </task>
+    <task id="LOCAL-00014" summary="4th method">
+      <created>1667921932437</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1667921932437</updated>
+    </task>
+    <task id="LOCAL-00015" summary="4th method">
+      <created>1667921946845</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1667921946845</updated>
+    </task>
+    <task id="LOCAL-00016" summary="4th method">
+      <created>1667922041194</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1667922041194</updated>
+    </task>
+    <task id="LOCAL-00017" summary="5th method">
+      <created>1667922633900</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1667922633900</updated>
+    </task>
+    <task id="LOCAL-00018" summary="6th method">
+      <created>1667930744082</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1667930744082</updated>
+    </task>
+    <task id="LOCAL-00019" summary="6th method">
+      <created>1667930858181</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1667930858181</updated>
+    </task>
+    <task id="LOCAL-00020" summary="6th method">
+      <created>1667930941237</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1667930941237</updated>
+    </task>
+    <task id="LOCAL-00021" summary="6th method">
+      <created>1667931370782</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1667931370782</updated>
+    </task>
+    <task id="LOCAL-00022" summary="6th method">
+      <created>1667931416447</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1667931416447</updated>
+    </task>
+    <task id="LOCAL-00023" summary="6th method">
+      <created>1668201004035</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1668201004035</updated>
+    </task>
+    <task id="LOCAL-00024" summary="6th method">
+      <created>1668201020090</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1668201020090</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="print method" />
+    <MESSAGE value="2ndmethod" />
+    <MESSAGE value="4th method" />
+    <MESSAGE value="5th method" />
+    <MESSAGE value="6th method" />
+    <option name="LAST_COMMIT_MESSAGE" value="6th method" />
+  </component>
+</project>

@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d27bcaba-f7fb-4991-92c4-e05aba0b7506" name="Changes" comment="done" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IrS3dWJMNJnhIB2nEjHsV5meJk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.Test1">
+    <configuration name="RandomTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W08H03---Baumiteration.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.datastructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.datastructures" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.datastructures.RandomTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W08H03---Baumiteration.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.datastructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.datastructures" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.datastructures.Test1" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W08H03---Baumiteration.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.datastructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.datastructures" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.datastructures.UnitTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitTest.artemisTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W08H03---Baumiteration.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.datastructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.datastructures" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.datastructures.UnitTest" />
+      <option name="METHOD_NAME" value="artemisTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitTest.emptyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W08H03---Baumiteration.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.datastructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.datastructures" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.datastructures.UnitTest" />
+      <option name="METHOD_NAME" value="emptyTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Test1" />
+        <item itemvalue="JUnit.UnitTest" />
+        <item itemvalue="JUnit.RandomTest" />
+        <item itemvalue="JUnit.UnitTest.artemisTest" />
+        <item itemvalue="JUnit.UnitTest.emptyTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d27bcaba-f7fb-4991-92c4-e05aba0b7506" name="Changes" comment="" />
+      <created>1670938010812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670938010812</updated>
+      <workItem from="1670938012026" duration="4013000" />
+      <workItem from="1671015191703" duration="19870000" />
+      <workItem from="1671107251672" duration="17637000" />
+      <workItem from="1671152031366" duration="17641000" />
+      <workItem from="1671212801296" duration="6997000" />
+      <workItem from="1671273369920" duration="16000" />
+      <workItem from="1671283788745" duration="62000" />
+      <workItem from="1671290768332" duration="1590000" />
+      <workItem from="1671447322372" duration="22000" />
+      <workItem from="1702749260909" duration="232000" />
+    </task>
+    <task id="LOCAL-00001" summary="a">
+      <created>1671057769975</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671057769975</updated>
+    </task>
+    <task id="LOCAL-00002" summary="done">
+      <created>1671198847722</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671198847722</updated>
+    </task>
+    <task id="LOCAL-00003" summary="done">
+      <created>1671199014013</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671199014013</updated>
+    </task>
+    <task id="LOCAL-00004" summary="done">
+      <created>1671199269869</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671199269869</updated>
+    </task>
+    <task id="LOCAL-00005" summary="done">
+      <created>1671200564371</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671200564371</updated>
+    </task>
+    <task id="LOCAL-00006" summary="done">
+      <created>1671200783278</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1671200783278</updated>
+    </task>
+    <task id="LOCAL-00007" summary="done">
+      <created>1671201100224</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1671201100224</updated>
+    </task>
+    <task id="LOCAL-00008" summary="done">
+      <created>1671205986154</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1671205986154</updated>
+    </task>
+    <task id="LOCAL-00009" summary="done">
+      <created>1671206899823</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1671206899823</updated>
+    </task>
+    <task id="LOCAL-00010" summary="done">
+      <created>1671221762140</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1671221762140</updated>
+    </task>
+    <task id="LOCAL-00011" summary="done">
+      <created>1671223741090</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1671223741090</updated>
+    </task>
+    <task id="LOCAL-00012" summary="done">
+      <created>1671224166117</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1671224166117</updated>
+    </task>
+    <task id="LOCAL-00013" summary="done">
+      <created>1671224177656</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1671224177656</updated>
+    </task>
+    <task id="LOCAL-00014" summary="done">
+      <created>1671229694015</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1671229694015</updated>
+    </task>
+    <task id="LOCAL-00015" summary="done">
+      <created>1671291757160</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1671291757160</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="a" />
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
+  </component>
+</project>

@@ -1,0 +1,38 @@
+plugins {
+    id 'application'
+}
+sourceCompatibility = 17
+version = '1.0.0'
+compileJava.options.encoding = 'UTF-8'
+
+application {
+    mainClass = 'pgdp.image.Main'
+}
+repositories {
+    mavenCentral()
+}
+
+run{
+      args = ['-m', 'mask.png', 'example.png', 'out.png', '875']
+    //args = ['-m', 'wikipediaMask.png', 'wikipediaExpected.png', 'out1.png', '875']
+}
+
+sourceSets {
+    main {
+        java {
+            srcDir 'src'
+        }
+    }
+    test {
+        java {
+            srcDirs = ['test']
+        }
+    }
+}
+test {
+    useJUnitPlatform()
+}
+dependencies {
+    implementation 'org.junit.jupiter:junit-jupiter:5.8.1'
+    testImplementation 'org.junit.jupiter:junit-jupiter:5.7.1'
+}

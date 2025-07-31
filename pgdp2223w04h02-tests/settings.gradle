@@ -1,0 +1,3 @@
+rootProject.name = 'W04H02---Mega-Merge-Sort-Tests'
+includeBuild('../pgdp2223w04h02-tests')
+// includeBuild('/path/to/repository-exercise')

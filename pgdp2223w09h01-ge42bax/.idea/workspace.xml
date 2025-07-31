@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25a747bf-3c05-43a2-9ecd-73573eeb2357" name="Changes" comment="one" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2J86QAoqUYtig4pIzWLr32dICsK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/pgdp/pingutrip" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PinguTrip">
+    <configuration name="OneWay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pgdp.pingutrip.OneWay" />
+      <module name="W09H01T---Pinguin-Ausflug.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.pingutrip.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PinguTrip" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pgdp.pingutrip.PinguTrip" />
+      <module name="W09H01T---Pinguin-Ausflug.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.pingutrip.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LegalCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W09H01T---Pinguin-Ausflug.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.pingutrip.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.pingutrip" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.pingutrip.LegalCheck" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadWayPointsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W09H01T---Pinguin-Ausflug.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.pingutrip.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.pingutrip" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.pingutrip.ReadWayPointsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadWayPointsTest.testReturnsValuesFromFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W09H01T---Pinguin-Ausflug.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.pingutrip.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.pingutrip" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.pingutrip.ReadWayPointsTest" />
+      <option name="METHOD_NAME" value="testReturnsValuesFromFile" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PinguTrip" />
+        <item itemvalue="Application.OneWay" />
+        <item itemvalue="JUnit.ReadWayPointsTest" />
+        <item itemvalue="JUnit.LegalCheck" />
+        <item itemvalue="JUnit.ReadWayPointsTest.testReturnsValuesFromFile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25a747bf-3c05-43a2-9ecd-73573eeb2357" name="Changes" comment="" />
+      <created>1671447344265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671447344265</updated>
+      <workItem from="1671447345586" duration="790000" />
+      <workItem from="1671472550131" duration="4436000" />
+      <workItem from="1671537853734" duration="17005000" />
+      <workItem from="1671985907794" duration="17000" />
+      <workItem from="1671992473295" duration="8424000" />
+      <workItem from="1672016133327" duration="220000" />
+    </task>
+    <task id="LOCAL-00001" summary="one">
+      <created>1671540597025</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671540597025</updated>
+    </task>
+    <task id="LOCAL-00002" summary="one">
+      <created>1671541164892</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671541164892</updated>
+    </task>
+    <task id="LOCAL-00003" summary="one">
+      <created>1671542972910</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671542972910</updated>
+    </task>
+    <task id="LOCAL-00004" summary="one">
+      <created>1671544513969</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671544513969</updated>
+    </task>
+    <task id="LOCAL-00005" summary="one">
+      <created>1671551191388</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671551191388</updated>
+    </task>
+    <task id="LOCAL-00006" summary="one">
+      <created>1671551632753</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1671551632753</updated>
+    </task>
+    <task id="LOCAL-00007" summary="one">
+      <created>1671552009047</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1671552009047</updated>
+    </task>
+    <task id="LOCAL-00008" summary="one">
+      <created>1671992617363</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1671992617363</updated>
+    </task>
+    <task id="LOCAL-00009" summary="one">
+      <created>1671993768056</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1671993768056</updated>
+    </task>
+    <task id="LOCAL-00010" summary="one">
+      <created>1671995742823</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1671995742823</updated>
+    </task>
+    <task id="LOCAL-00011" summary="one">
+      <created>1671996211486</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1671996211486</updated>
+    </task>
+    <task id="LOCAL-00012" summary="one">
+      <created>1671998198527</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1671998198527</updated>
+    </task>
+    <task id="LOCAL-00013" summary="one">
+      <created>1671998854535</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1671998854535</updated>
+    </task>
+    <task id="LOCAL-00014" summary="one">
+      <created>1672000276099</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1672000276099</updated>
+    </task>
+    <task id="LOCAL-00015" summary="one">
+      <created>1672000571970</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1672000571970</updated>
+    </task>
+    <task id="LOCAL-00016" summary="one">
+      <created>1672000835489</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1672000835489</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="one" />
+    <option name="LAST_COMMIT_MESSAGE" value="one" />
+  </component>
+</project>

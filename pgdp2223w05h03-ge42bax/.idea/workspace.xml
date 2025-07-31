@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="65d881da-c673-4a9a-8fbd-edeede9d8e5c" name="Changes" comment="done">
+      <change beforePath="$PROJECT_DIR$/src/pgdp/messenger/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pgdp/messenger/List.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HrIxZmskbyL6OA8o4pz2dWfVVL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.MessengerTests">
+    <configuration name="MessengerTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W05H03---Messenger-is-still-on-the-List.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.messenger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.messenger" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.messenger.MessengerTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PinguTalkTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W05H03---Messenger-is-still-on-the-List.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.messenger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.messenger" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.messenger.PinguTalkTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PinguTalkTest.initializeArraysWithLengthOfAtLeastOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W05H03---Messenger-is-still-on-the-List.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.messenger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.messenger" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.messenger.PinguTalkTest" />
+      <option name="METHOD_NAME" value="initializeArraysWithLengthOfAtLeastOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserArrayBehaviourTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W05H03---Messenger-is-still-on-the-List.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.messenger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.messenger" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.messenger.UserArrayBehaviourTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W05H03---Messenger-is-still-on-the-List.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.messenger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.messenger" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.messenger.UserArrayTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MessengerTests" />
+        <item itemvalue="JUnit.PinguTalkTest" />
+        <item itemvalue="JUnit.UserArrayTest" />
+        <item itemvalue="JUnit.UserArrayBehaviourTest" />
+        <item itemvalue="JUnit.PinguTalkTest.initializeArraysWithLengthOfAtLeastOne" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65d881da-c673-4a9a-8fbd-edeede9d8e5c" name="Changes" comment="" />
+      <created>1669037022502</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669037022502</updated>
+      <workItem from="1669037023645" duration="62000" />
+      <workItem from="1669037263494" duration="5608000" />
+      <workItem from="1669057992512" duration="5542000" />
+      <workItem from="1669063570320" duration="1263000" />
+      <workItem from="1669113900205" duration="16781000" />
+      <workItem from="1669194009112" duration="21357000" />
+      <workItem from="1669307509500" duration="289000" />
+      <workItem from="1669455018290" duration="597000" />
+      <workItem from="1669537416108" duration="16000" />
+      <workItem from="1669537459545" duration="9721000" />
+      <workItem from="1669574542039" duration="18000" />
+      <workItem from="1669658307552" duration="90000" />
+      <workItem from="1669726460519" duration="947000" />
+    </task>
+    <task id="LOCAL-00048" summary="PinguTalk">
+      <created>1669128501124</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1669128501124</updated>
+    </task>
+    <task id="LOCAL-00049" summary="PinguTalk">
+      <created>1669128772664</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1669128772664</updated>
+    </task>
+    <task id="LOCAL-00050" summary="PinguTalk">
+      <created>1669129154855</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1669129154856</updated>
+    </task>
+    <task id="LOCAL-00051" summary="PinguTalk">
+      <created>1669129555312</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1669129555312</updated>
+    </task>
+    <task id="LOCAL-00052" summary="PinguTalk">
+      <created>1669130432886</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1669130432886</updated>
+    </task>
+    <task id="LOCAL-00053" summary="PinguTalk">
+      <created>1669130573102</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1669130573102</updated>
+    </task>
+    <task id="LOCAL-00054" summary="PinguTalk">
+      <created>1669130668899</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1669130668899</updated>
+    </task>
+    <task id="LOCAL-00055" summary="PinguTalk">
+      <created>1669131883499</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1669131883499</updated>
+    </task>
+    <task id="LOCAL-00056" summary="PinguTalk">
+      <created>1669132143754</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1669132143754</updated>
+    </task>
+    <task id="LOCAL-00057" summary="PinguTalk">
+      <created>1669132179786</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1669132179786</updated>
+    </task>
+    <task id="LOCAL-00058" summary="PinguTalk">
+      <created>1669132308559</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1669132308559</updated>
+    </task>
+    <task id="LOCAL-00059" summary="PinguTalk">
+      <created>1669132522976</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1669132522976</updated>
+    </task>
+    <task id="LOCAL-00060" summary="PinguTalk">
+      <created>1669132537721</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1669132537721</updated>
+    </task>
+    <task id="LOCAL-00061" summary="PinguTalk">
+      <created>1669132689402</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1669132689402</updated>
+    </task>
+    <task id="LOCAL-00062" summary="PinguTalk">
+      <created>1669149755783</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1669149755783</updated>
+    </task>
+    <task id="LOCAL-00063" summary="PinguTalk">
+      <created>1669149809283</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1669149809283</updated>
+    </task>
+    <task id="LOCAL-00064" summary="PinguTalk">
+      <created>1669149980062</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1669149980062</updated>
+    </task>
+    <task id="LOCAL-00065" summary="PinguTalk">
+      <created>1669150120658</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1669150120660</updated>
+    </task>
+    <task id="LOCAL-00066" summary="PinguTalk">
+      <created>1669150243362</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1669150243362</updated>
+    </task>
+    <task id="LOCAL-00067" summary="PinguTalk">
+      <created>1669150282494</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1669150282494</updated>
+    </task>
+    <task id="LOCAL-00068" summary="PinguTalk">
+      <created>1669150328177</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1669150328177</updated>
+    </task>
+    <task id="LOCAL-00069" summary="PinguTalk">
+      <created>1669150368186</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1669150368186</updated>
+    </task>
+    <task id="LOCAL-00070" summary="PinguTalk">
+      <created>1669150490024</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1669150490024</updated>
+    </task>
+    <task id="LOCAL-00071" summary="PinguTalk">
+      <created>1669150555517</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1669150555517</updated>
+    </task>
+    <task id="LOCAL-00072" summary="PinguTalk">
+      <created>1669150720512</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1669150720512</updated>
+    </task>
+    <task id="LOCAL-00073" summary="PinguTalk">
+      <created>1669150862686</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1669150862687</updated>
+    </task>
+    <task id="LOCAL-00074" summary="PinguTalk">
+      <created>1669150968284</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1669150968284</updated>
+    </task>
+    <task id="LOCAL-00075" summary="PinguTalk">
+      <created>1669151011346</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1669151011346</updated>
+    </task>
+    <task id="LOCAL-00076" summary="PinguTalk">
+      <created>1669151214460</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1669151214460</updated>
+    </task>
+    <task id="LOCAL-00077" summary="PinguTalk">
+      <created>1669195099762</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1669195099762</updated>
+    </task>
+    <task id="LOCAL-00078" summary="PinguTalk">
+      <created>1669195285975</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1669195285975</updated>
+    </task>
+    <task id="LOCAL-00079" summary="PinguTalk">
+      <created>1669198728579</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1669198728579</updated>
+    </task>
+    <task id="LOCAL-00080" summary="PinguTalk">
+      <created>1669198946507</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1669198946507</updated>
+    </task>
+    <task id="LOCAL-00081" summary="PinguTalk">
+      <created>1669212095278</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1669212095278</updated>
+    </task>
+    <task id="LOCAL-00082" summary="PinguTalk">
+      <created>1669212282301</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1669212282302</updated>
+    </task>
+    <task id="LOCAL-00083" summary="PinguTalk">
+      <created>1669212962309</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1669212962309</updated>
+    </task>
+    <task id="LOCAL-00084" summary="PinguTalk">
+      <created>1669213055284</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1669213055284</updated>
+    </task>
+    <task id="LOCAL-00085" summary="PinguTalk">
+      <created>1669213141973</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1669213141973</updated>
+    </task>
+    <task id="LOCAL-00086" summary="PinguTalk">
+      <created>1669213343788</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1669213343788</updated>
+    </task>
+    <task id="LOCAL-00087" summary="PinguTalk">
+      <created>1669213418915</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1669213418915</updated>
+    </task>
+    <task id="LOCAL-00088" summary="PinguTalk">
+      <created>1669228716301</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1669228716301</updated>
+    </task>
+    <task id="LOCAL-00089" summary="PinguTalk">
+      <created>1669228852967</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1669228852967</updated>
+    </task>
+    <task id="LOCAL-00090" summary="PinguTalk">
+      <created>1669229100993</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1669229100993</updated>
+    </task>
+    <task id="LOCAL-00091" summary="PinguTalk">
+      <created>1669237041722</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1669237041723</updated>
+    </task>
+    <task id="LOCAL-00092" summary="PinguTalk">
+      <created>1669238062515</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1669238062515</updated>
+    </task>
+    <task id="LOCAL-00093" summary="ListtestsPasssed">
+      <created>1669549830221</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1669549830222</updated>
+    </task>
+    <task id="LOCAL-00094" summary="all ausser eins">
+      <created>1669552547193</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1669552547193</updated>
+    </task>
+    <task id="LOCAL-00095" summary="all ausser eins">
+      <created>1669552713721</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1669552713722</updated>
+    </task>
+    <task id="LOCAL-00096" summary="done">
+      <created>1669559407933</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1669559407933</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ADD" />
+    <MESSAGE value="PinguTalk" />
+    <MESSAGE value="ListtestsPasssed" />
+    <MESSAGE value="all ausser eins" />
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/W05H03___Messenger_is_still_on_the_List$UserArray.ic" NAME="UserArray Coverage Results" MODIFIED="1669062551874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>pgdp.messenger.*</FILTER>
+    </SUITE>
+  </component>
+</project>

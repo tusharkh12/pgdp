@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b4c20fc-d468-483c-9e85-19c6f8fb0381" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/pgdp2223w04h02-tests/test/pgdp/megamerge/MegaMergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgdp2122w02h01-ge42bax" beforeDir="false" afterPath="$PROJECT_DIR$/pgdp2122w02h01-ge42bax" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgdp2122w02h01-ge42bax/src/pgdp/rectangles/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/pgdp2122w02h01-ge42bax/src/pgdp/rectangles/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgdp2122w02h01-ge42bax/src/pgdp/rectangles/Vector2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/pgdp2122w02h01-ge42bax/src/pgdp/rectangles/Vector2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgdp2122w03h01-ge42bax" beforeDir="false" afterPath="$PROJECT_DIR$/pgdp2122w03h01-ge42bax" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgdp2122w03h01-ge42bax/src/pgdp/searchengine/pagerepository/Review.java" beforeDir="false" afterPath="$PROJECT_DIR$/pgdp2122w03h01-ge42bax/src/pgdp/searchengine/pagerepository/Review.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgdp2122w04h01-ge42bax" beforeDir="false" afterPath="$PROJECT_DIR$/pgdp2122w04h01-ge42bax" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgdp2122w04h01-ge42bax/src/pgdp/pingumath/NumberConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/pgdp2122w04h01-ge42bax/src/pgdp/pingumath/NumberConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgdp2122w06h01-ge42bax" beforeDir="false" afterPath="$PROJECT_DIR$/pgdp2122w06h01-ge42bax" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgdp2122w06h01-ge42bax/src/pgdp/saleuine2/PinguFoodLogistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/pgdp2122w06h01-ge42bax/src/pgdp/saleuine2/PinguFoodLogistics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgdp2223w02h01-ge42bax" beforeDir="false" afterPath="$PROJECT_DIR$/pgdp2223w02h01-ge42bax" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgdp2223w02h01-ge42bax/src/pgdp/warmup/PenguWarmup.java" beforeDir="false" afterPath="$PROJECT_DIR$/pgdp2223w02h01-ge42bax/src/pgdp/warmup/PenguWarmup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgdp2223w02h03-ge42bax" beforeDir="false" afterPath="$PROJECT_DIR$/pgdp2223w02h03-ge42bax" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgdp2223w02h03-ge42bax/src/pgdp/math/PinguSqrt.java" beforeDir="false" afterPath="$PROJECT_DIR$/pgdp2223w02h03-ge42bax/src/pgdp/math/PinguSqrt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgdp2223w04h02-ge42bax" beforeDir="false" afterPath="$PROJECT_DIR$/pgdp2223w04h02-ge42bax" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgdp2223w04h02-ge42bax/src/pgdp/megamerge/MegaMergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgdp2223w04h02-tests" beforeDir="false" afterPath="$PROJECT_DIR$/pgdp2223w04h02-tests" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgdp2223w04h02-tests/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/pgdp2223w04h02-tests/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgdp2223w04h02-tests/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/pgdp2223w04h02-tests/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgdp2223w04h02-tests/test/pgdp/megamerge/MegaMergeSortBehaviorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/pgdp2223w04h02-tests/test/pgdp/megamerge/MegaMergeSortBehaviorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgdp2223w05h03-ge42bax" beforeDir="false" afterPath="$PROJECT_DIR$/pgdp2223w05h03-ge42bax" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgdp2223w05h03-ge42bax/src/pgdp/messenger/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/pgdp2223w05h03-ge42bax/src/pgdp/messenger/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgdp2223w06h01-ge42bax" beforeDir="false" afterPath="$PROJECT_DIR$/pgdp2223w06h01-ge42bax" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgdp2223w06h01-ge42bax/src/pgdp/datastructures/lists/RecIntList.java" beforeDir="false" afterPath="$PROJECT_DIR$/pgdp2223w06h01-ge42bax/src/pgdp/datastructures/lists/RecIntList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgdp2223w06h02-ge42bax" beforeDir="false" afterPath="$PROJECT_DIR$/pgdp2223w06h02-ge42bax" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgdp2223w06h02-ge42bax/src/pgdp/ds/RingBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/pgdp2223w06h02-ge42bax/src/pgdp/ds/RingBuffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgdp2223w07h02-ge42bax" beforeDir="false" afterPath="$PROJECT_DIR$/pgdp2223w07h02-ge42bax" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgdp2223w07h02-ge42bax/src/pgdp/security/LightPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/pgdp2223w07h02-ge42bax/src/pgdp/security/LightPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgdp2223w07h02-ge42bax/src/pgdp/security/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/pgdp2223w07h02-ge42bax/src/pgdp/security/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgdp2223w09b01-ge42bax" beforeDir="false" afterPath="$PROJECT_DIR$/pgdp2223w09b01-ge42bax" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgdp2223w09b01-ge42bax/src/pgdp/tictactoe/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/pgdp2223w09b01-ge42bax/src/pgdp/tictactoe/Game.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/pgdp2122w01h01-ge42bax" />
+  </component>
+  <component name="ProjectId" id="2jv0IbzzQqYK7m9Cc6B05jXuhme" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/tusharkhandelwal/IdeaProjects/pgdp",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b4c20fc-d468-483c-9e85-19c6f8fb0381" name="Changes" comment="" />
+      <created>1722252166307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722252166307</updated>
+      <workItem from="1722252169910" duration="1690000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

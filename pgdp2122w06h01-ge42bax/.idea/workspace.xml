@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="224505f2-f115-43f5-b005-4c8d9fa99417" name="Changes" comment="Finall">
+      <change beforePath="$PROJECT_DIR$/src/pgdp/saleuine2/PinguFoodLogistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pgdp/saleuine2/PinguFoodLogistics.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21pnINOF1XLxHzundpudquXtccJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.PinguFoodLogistics">
+    <configuration name="PinguFood" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pgdp.saleuine2.PinguFood" />
+      <module name="W06H01 - Saleuine Grosshandel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.saleuine2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PinguFoodLogistics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pgdp.saleuine2.PinguFoodLogistics" />
+      <module name="W06H01 - Saleuine Grosshandel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.saleuine2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PinguFoodLogistics" />
+        <item itemvalue="Application.PinguFood" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="224505f2-f115-43f5-b005-4c8d9fa99417" name="Changes" comment="" />
+      <created>1638646815380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638646815380</updated>
+    </task>
+    <task id="LOCAL-00001" summary="PinguFood..">
+      <created>1638658368161</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638658368161</updated>
+    </task>
+    <task id="LOCAL-00002" summary="PinguFood..">
+      <created>1638658611284</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1638658611284</updated>
+    </task>
+    <task id="LOCAL-00003" summary="PinguFood..">
+      <created>1638665513334</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1638665513334</updated>
+    </task>
+    <task id="LOCAL-00004" summary="PinguFood..">
+      <created>1638665563442</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1638665563442</updated>
+    </task>
+    <task id="LOCAL-00005" summary="PinguFood..">
+      <created>1638667907723</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1638667907723</updated>
+    </task>
+    <task id="LOCAL-00006" summary="PinguFood..">
+      <created>1638695920287</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1638695920287</updated>
+    </task>
+    <task id="LOCAL-00007" summary="PinguFood..">
+      <created>1638697020160</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1638697020160</updated>
+    </task>
+    <task id="LOCAL-00008" summary="PinguFood..">
+      <created>1638697834869</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1638697834869</updated>
+    </task>
+    <task id="LOCAL-00009" summary="PinguFood..">
+      <created>1638698971030</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1638698971030</updated>
+    </task>
+    <task id="LOCAL-00010" summary="PinguFood..">
+      <created>1638699039785</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1638699039785</updated>
+    </task>
+    <task id="LOCAL-00011" summary="PinguFood..">
+      <created>1638701504196</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1638701504196</updated>
+    </task>
+    <task id="LOCAL-00012" summary="PinguFood..">
+      <created>1638703570166</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1638703570166</updated>
+    </task>
+    <task id="LOCAL-00013" summary="PinguFood..">
+      <created>1638703651271</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1638703651271</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Finall">
+      <created>1638712153876</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1638712153876</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Finall">
+      <created>1638712433711</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1638712433711</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Finall">
+      <created>1638713227508</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1638713227508</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Finall">
+      <created>1638723697569</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1638723697569</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Finall">
+      <created>1638723854163</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1638723854163</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Finall">
+      <created>1638724016707</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1638724016707</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Finall">
+      <created>1638724144639</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1638724144639</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Finall">
+      <created>1638727197853</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1638727197853</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Finall">
+      <created>1638731154466</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1638731154466</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Finall">
+      <created>1638731305073</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1638731305073</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Finall">
+      <created>1638731469605</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1638731469605</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Finall">
+      <created>1638741583836</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1638741583836</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Finall">
+      <created>1638745766140</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1638745766140</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Finall">
+      <created>1638746497181</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1638746497181</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="PinguFood.." />
+    <MESSAGE value="Finall" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finall" />
+  </component>
+</project>

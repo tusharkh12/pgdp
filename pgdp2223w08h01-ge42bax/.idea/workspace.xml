@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e5db4460-ca38-4368-b8be-79d403ec9eef" name="Changes" comment="a" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IjJkOv2bYoTFzTbrRRNAlv4GlQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.SimpleGenericsTest">
+    <configuration name="SimpleGenerics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pgdp.SimpleGenerics" />
+      <module name="W08H01---Simple-Generics.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleGenericsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W08H01---Simple-Generics.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.SimpleGenericsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleGenericsTest.getValues2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W08H01---Simple-Generics.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.SimpleGenericsTest" />
+      <option name="METHOD_NAME" value="getValues2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleGenericsTest.specialSort1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W08H01---Simple-Generics.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.SimpleGenericsTest" />
+      <option name="METHOD_NAME" value="specialSort1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleGenericsTest.specialsort3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W08H01---Simple-Generics.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.SimpleGenericsTest" />
+      <option name="METHOD_NAME" value="specialsort3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SimpleGenericsTest" />
+        <item itemvalue="JUnit.SimpleGenericsTest.getValues2" />
+        <item itemvalue="JUnit.SimpleGenericsTest.specialsort3" />
+        <item itemvalue="JUnit.SimpleGenericsTest.specialSort1" />
+        <item itemvalue="Application.SimpleGenerics" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5db4460-ca38-4368-b8be-79d403ec9eef" name="Changes" comment="" />
+      <created>1670689201369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670689201369</updated>
+      <workItem from="1670689202561" duration="9581000" />
+      <workItem from="1670758235071" duration="12000" />
+      <workItem from="1670779318201" duration="3378000" />
+      <workItem from="1670851190971" duration="2278000" />
+      <workItem from="1671117530421" duration="878000" />
+    </task>
+    <task id="LOCAL-00001" summary="a">
+      <created>1670693740165</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670693740165</updated>
+    </task>
+    <task id="LOCAL-00002" summary="a">
+      <created>1670694130829</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670694130829</updated>
+    </task>
+    <task id="LOCAL-00003" summary="a">
+      <created>1670694243509</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670694243509</updated>
+    </task>
+    <task id="LOCAL-00004" summary="a">
+      <created>1670694442460</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670694442460</updated>
+    </task>
+    <task id="LOCAL-00005" summary="a">
+      <created>1670714734430</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670714734430</updated>
+    </task>
+    <task id="LOCAL-00006" summary="a">
+      <created>1670715101241</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1670715101241</updated>
+    </task>
+    <task id="LOCAL-00007" summary="a">
+      <created>1670715220330</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1670715220330</updated>
+    </task>
+    <task id="LOCAL-00008" summary="a">
+      <created>1670779377697</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1670779377697</updated>
+    </task>
+    <task id="LOCAL-00009" summary="a">
+      <created>1670851512920</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1670851512920</updated>
+    </task>
+    <task id="LOCAL-00010" summary="a">
+      <created>1670851950463</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1670851950463</updated>
+    </task>
+    <task id="LOCAL-00011" summary="a">
+      <created>1670852326641</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1670852326641</updated>
+    </task>
+    <task id="LOCAL-00012" summary="a">
+      <created>1670852556864</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1670852556864</updated>
+    </task>
+    <task id="LOCAL-00013" summary="a">
+      <created>1670853276353</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1670853276353</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="a" />
+    <option name="LAST_COMMIT_MESSAGE" value="a" />
+  </component>
+</project>

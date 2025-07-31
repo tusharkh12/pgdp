@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb8366e7-302b-4524-b0e5-7e229a2fca5d" name="Changes" comment="Chess Board" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="21SJ7tNeaRC8bwGB5ZWTT7ataph" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="RunManager" selected="JUnit.TestPinguChess">
+    <configuration name="GameBoard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pgdp.chess.GameBoard" />
+      <module name="W05H01 - Pingu Schach" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.chess.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PinguChess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pgdp.chess.PinguChess" />
+      <module name="W05H01 - Pingu Schach" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.chess.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGameBoard.testEvaluateWinner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W05H01 - Pingu Schach" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.chess.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.chess.tests" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.chess.tests.TestGameBoard" />
+      <option name="METHOD_NAME" value="testEvaluateWinner" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGameBoard.testGetSet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W05H01 - Pingu Schach" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.chess.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.chess.tests" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.chess.tests.TestGameBoard" />
+      <option name="METHOD_NAME" value="testGetSet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPinguChess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W05H01 - Pingu Schach" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.chess.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.chess.tests" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.chess.tests.TestPinguChess" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestPinguChess" />
+        <item itemvalue="JUnit.TestGameBoard.testGetSet" />
+        <item itemvalue="JUnit.TestGameBoard.testEvaluateWinner" />
+        <item itemvalue="Application.PinguChess" />
+        <item itemvalue="Application.GameBoard" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb8366e7-302b-4524-b0e5-7e229a2fca5d" name="Changes" comment="" />
+      <created>1637928390645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637928390645</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Chess Board">
+      <created>1638121793607</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638121793607</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Chess Board">
+      <created>1638146904191</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1638146904191</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Chess Board">
+      <created>1638149679814</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1638149679814</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Chess Board">
+      <created>1638149715002</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1638149715002</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Chess Board">
+      <created>1638150101709</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1638150101709</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Chess Board">
+      <created>1638150294681</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1638150294681</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Chess Board">
+      <created>1638150353737</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1638150353737</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Chess Board">
+      <created>1638150459845</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1638150459845</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Chess Board">
+      <created>1638151285638</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1638151285638</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Chess Board">
+      <created>1638151343985</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1638151343985</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Chess Board">
+      <created>1638157716456</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1638157716456</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Chess Board" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chess Board" />
+  </component>
+</project>

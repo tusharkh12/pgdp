@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="231442e7-2470-4dc1-863c-5b3c1baeeca4" name="Changes" comment="finish" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IVCdMttThvuhDYi3lFRa0JzTkC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.SimulationTest">
+    <configuration name="MovingCell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pgdp.sim.MovingCell" />
+      <module name="W07H03---Pingu-Sim.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.sim.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EatBehaviourTest.herbivoreBehaviour" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W07H03---Pingu-Sim.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.sim.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.sim" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.sim.EatBehaviourTest" />
+      <option name="METHOD_NAME" value="herbivoreBehaviour" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimulationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W07H03---Pingu-Sim.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.sim.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.sim" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.sim.SimulationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimulationTest.hamsterEatsPlantWolfEatsHamster" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W07H03---Pingu-Sim.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.sim.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.sim" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.sim.SimulationTest" />
+      <option name="METHOD_NAME" value="hamsterEatsPlantWolfEatsHamster" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimulationTest.singlePingu" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W07H03---Pingu-Sim.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.sim.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.sim" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.sim.SimulationTest" />
+      <option name="METHOD_NAME" value="singlePingu" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SimulationTest" />
+        <item itemvalue="Application.MovingCell" />
+        <item itemvalue="JUnit.SimulationTest.hamsterEatsPlantWolfEatsHamster" />
+        <item itemvalue="JUnit.SimulationTest.singlePingu" />
+        <item itemvalue="JUnit.EatBehaviourTest.herbivoreBehaviour" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="231442e7-2470-4dc1-863c-5b3c1baeeca4" name="Changes" comment="" />
+      <created>1670257449745</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670257449745</updated>
+      <workItem from="1670257451186" duration="5187000" />
+      <workItem from="1670314583544" duration="2599000" />
+      <workItem from="1670338169087" duration="20000" />
+      <workItem from="1670356978523" duration="366000" />
+      <workItem from="1670358582938" duration="115000" />
+      <workItem from="1670429585996" duration="636000" />
+      <workItem from="1670430262610" duration="93000" />
+      <workItem from="1670430943216" duration="691000" />
+      <workItem from="1670509011655" duration="4346000" />
+      <workItem from="1670515500571" duration="5672000" />
+      <workItem from="1670589156341" duration="11841000" />
+      <workItem from="1670664017504" duration="7844000" />
+      <workItem from="1670689175219" duration="26000" />
+      <workItem from="1670695005800" duration="849000" />
+      <workItem from="1670758249577" duration="13828000" />
+    </task>
+    <task id="LOCAL-00001" summary="plant">
+      <created>1670259549418</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670259549418</updated>
+    </task>
+    <task id="LOCAL-00002" summary="plant">
+      <created>1670259670952</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670259670952</updated>
+    </task>
+    <task id="LOCAL-00003" summary="plant">
+      <created>1670259798584</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670259798584</updated>
+    </task>
+    <task id="LOCAL-00004" summary="plant">
+      <created>1670314587933</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670314587933</updated>
+    </task>
+    <task id="LOCAL-00005" summary="plant">
+      <created>1670429649833</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670429649833</updated>
+    </task>
+    <task id="LOCAL-00006" summary="plant">
+      <created>1670431032767</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1670431032767</updated>
+    </task>
+    <task id="LOCAL-00007" summary="plant">
+      <created>1670512246213</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1670512246213</updated>
+    </task>
+    <task id="LOCAL-00008" summary="plant">
+      <created>1670512277160</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1670512277160</updated>
+    </task>
+    <task id="LOCAL-00009" summary="plant">
+      <created>1670515574416</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1670515574416</updated>
+    </task>
+    <task id="LOCAL-00010" summary="finish">
+      <created>1670515720709</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1670515720709</updated>
+    </task>
+    <task id="LOCAL-00011" summary="finish">
+      <created>1670602688376</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1670602688376</updated>
+    </task>
+    <task id="LOCAL-00012" summary="finish">
+      <created>1670685041869</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1670685041869</updated>
+    </task>
+    <task id="LOCAL-00013" summary="finish">
+      <created>1670777455749</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1670777455749</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="plant" />
+    <MESSAGE value="finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="y" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

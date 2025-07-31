@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="x-ua-compatible" content="IE=edge"/>
+<title>Test results - MegaMergeSortBehaviorTest</title>
+<link href="../css/base-style.css" rel="stylesheet" type="text/css"/>
+<link href="../css/style.css" rel="stylesheet" type="text/css"/>
+<script src="../js/report.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="content">
+<h1>MegaMergeSortBehaviorTest</h1>
+<div class="breadcrumbs">
+<a href="../index.html">all</a> &gt; 
+<a href="../packages/pgdp.megamerge.html">pgdp.megamerge</a> &gt; MegaMergeSortBehaviorTest</div>
+<div id="summary">
+<table>
+<tr>
+<td>
+<div class="summaryGroup">
+<table>
+<tr>
+<td>
+<div class="infoBox" id="tests">
+<div class="counter">1</div>
+<p>tests</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="failures">
+<div class="counter">1</div>
+<p>failures</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="ignored">
+<div class="counter">0</div>
+<p>ignored</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="duration">
+<div class="counter">0.073s</div>
+<p>duration</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+<td>
+<div class="infoBox failures" id="successRate">
+<div class="percent">0%</div>
+<p>successful</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="tabs">
+<ul class="tabLinks">
+<li>
+<a href="#tab0">Failed tests</a>
+</li>
+<li>
+<a href="#tab1">Tests</a>
+</li>
+<li>
+<a href="#tab2">Standard error</a>
+</li>
+</ul>
+<div id="tab0" class="tab">
+<h2>Failed tests</h2>
+<div class="test">
+<a name="countPoints()"></a>
+<h3 class="failures">Count Points MegaMergeSort</h3>
+<span class="code">
+<pre>org.opentest4j.AssertionFailedError: 0 / 3 Punkten auf die Methode 'megaMergeSort()'
+	at app//org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
+	at app//org.junit.jupiter.api.Assertions.fail(Assertions.java:134)
+	at app//pgdp.megamerge.MegaMergeSortBehaviorTest.countPoints(MegaMergeSortBehaviorTest.java:118)
+	at java.base@17.0.3.1/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base@17.0.3.1/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base@17.0.3.1/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base@17.0.3.1/java.lang.reflect.Method.invoke(Method.java:568)
+	at app//org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:725)
+	at app//org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+	at app//org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+	at app//de.tum.in.test.api.internal.TimeoutUtils.rethrowThrowableSafe(TimeoutUtils.java:57)
+	at app//de.tum.in.test.api.internal.TimeoutUtils.lambda$performTimeoutExecution$1(TimeoutUtils.java:52)
+	at java.base@17.0.3.1/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base@17.0.3.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base@17.0.3.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base@17.0.3.1/java.lang.Thread.run(Thread.java:833)
+</pre>
+</span>
+</div>
+</div>
+<div id="tab1" class="tab">
+<h2>Tests</h2>
+<table>
+<thead>
+<tr>
+<th>Test</th>
+<th>Method name</th>
+<th>Duration</th>
+<th>Result</th>
+</tr>
+</thead>
+<tr>
+<td class="failures">Count Points MegaMergeSort</td>
+<td class="failures">countPoints()</td>
+<td class="failures">0.073s</td>
+<td class="failures">failed</td>
+</tr>
+</table>
+</div>
+<div id="tab2" class="tab">
+<h2>Standard error</h2>
+<span class="code">
+<pre>[DEBUG] [Test worker] Validated build configuration regarding trusted package rules, 0 are missing.
+NOTICE: The warning above is expected and the issue is already known.
+        Visit https://github.com/ls1intum/Ares/discussions/113 for more details.
+[INFO] [Test worker] Request install with ASC-Impl [testMethod=Optional.empty, executionPath=/Users/tusharkhandelwal/IdeaProjects/pgdp2223w04h02-tests, whitelistedPaths=Optional[[PathRule[&quot;target&quot; (STARTS_WITH) in WHITELIST; level READ], PathRule[&quot;../pgdp2223*w04h02**&quot; (GLOB) in WHITELIST; level READ]]], blacklistedPaths=[PathRule[&quot;{test,target/test}**Test*.{java,class}&quot; (GLOB) in BLACKLIST; level READ]], allowedLocalPorts=[], trustedPackages=[]]
+[INFO] [Test worker] Request whitelisting: Thread[ajts-to-1,5,Test-Threadgroup] []
+[INFO] [Test worker] Thread whitelisted: Thread[ajts-to-1,5,Test-Threadgroup]
+[INFO] [Test worker] Request uninstall
+[DEBUG] [Test worker] Validated build configuration regarding trusted package rules, 0 are missing.
+[INFO] [Test worker] Request install with ASC-Impl [testMethod=Optional[public void pgdp.megamerge.MegaMergeSortBehaviorTest.countPoints()], executionPath=/Users/tusharkhandelwal/IdeaProjects/pgdp2223w04h02-tests, whitelistedPaths=Optional[[PathRule[&quot;target&quot; (STARTS_WITH) in WHITELIST; level READ], PathRule[&quot;../pgdp2223*w04h02**&quot; (GLOB) in WHITELIST; level READ]]], blacklistedPaths=[PathRule[&quot;{test,target/test}**Test*.{java,class}&quot; (GLOB) in BLACKLIST; level READ]], allowedLocalPorts=[], trustedPackages=[]]
+[INFO] [Test worker] Request whitelisting: Thread[ajts-to-2,5,Test-Threadgroup] []
+[INFO] [Test worker] Thread whitelisted: Thread[ajts-to-2,5,Test-Threadgroup]
+[INFO] [Test worker] Request uninstall
+</pre>
+</span>
+</div>
+</div>
+<div id="footer">
+<p>
+<div>
+<label class="hidden" id="label-for-line-wrapping-toggle" for="line-wrapping-toggle">Wrap lines
+<input id="line-wrapping-toggle" type="checkbox" autocomplete="off"/>
+</label>
+</div>Generated by 
+<a href="http://www.gradle.org">Gradle 7.5.1</a> at 2 Dec 2022, 18:44:59</p>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3ecd82d5-ae41-4311-8147-536c62bffada" name="Changes" comment="1.4">
+      <change beforePath="$PROJECT_DIR$/src/pgdp/datastructures/lists/RecIntList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pgdp/datastructures/lists/RecIntList.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2I8sUNmYFHQFusGJakxalIayQW2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.ZipTest.only_two">
+    <configuration name="RecIntList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pgdp.datastructures.lists.RecIntList" />
+      <module name="W06H01---Listige-Launemacher.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.datastructures.lists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZipTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W06H01---Listige-Launemacher.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.datastructures.lists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.datastructures.lists" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.datastructures.lists.ZipTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZipTest.example" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W06H01---Listige-Launemacher.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.datastructures.lists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.datastructures.lists" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.datastructures.lists.ZipTest" />
+      <option name="METHOD_NAME" value="example" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZipTest.only_two" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W06H01---Listige-Launemacher.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.datastructures.lists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.datastructures.lists" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.datastructures.lists.ZipTest" />
+      <option name="METHOD_NAME" value="only_two" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZipTest.two_smaller" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W06H01---Listige-Launemacher.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.datastructures.lists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.datastructures.lists" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.datastructures.lists.ZipTest" />
+      <option name="METHOD_NAME" value="two_smaller" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ZipTest.only_two" />
+        <item itemvalue="Application.RecIntList" />
+        <item itemvalue="JUnit.ZipTest" />
+        <item itemvalue="JUnit.ZipTest.example" />
+        <item itemvalue="JUnit.ZipTest.two_smaller" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ecd82d5-ae41-4311-8147-536c62bffada" name="Changes" comment="" />
+      <created>1669574560202</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669574560202</updated>
+      <workItem from="1669574561502" duration="9108000" />
+      <workItem from="1669584788701" duration="78000" />
+      <workItem from="1669632935628" duration="2428000" />
+      <workItem from="1669656279546" duration="6843000" />
+      <workItem from="1669725970513" duration="8988000" />
+      <workItem from="1669738355350" duration="1309000" />
+      <workItem from="1669748236601" duration="3274000" />
+      <workItem from="1669798360867" duration="497000" />
+      <workItem from="1669904563347" duration="1951000" />
+      <workItem from="1669907380603" duration="1088000" />
+      <workItem from="1669917714403" duration="1802000" />
+      <workItem from="1669982970508" duration="599000" />
+    </task>
+    <task id="LOCAL-00001" summary="1.1">
+      <created>1669577948304</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669577948304</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1.1">
+      <created>1669578211895</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669578211895</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1.1">
+      <created>1669578814919</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669578814919</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1.2">
+      <created>1669581208196</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669581208196</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1.2">
+      <created>1669581416107</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669581416107</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1.2">
+      <created>1669581623641</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669581623641</updated>
+    </task>
+    <task id="LOCAL-00007" summary="1.3">
+      <created>1669584523020</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669584523020</updated>
+    </task>
+    <task id="LOCAL-00008" summary="1.3">
+      <created>1669660960401</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669660960401</updated>
+    </task>
+    <task id="LOCAL-00009" summary="1.3">
+      <created>1669661278115</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1669661278115</updated>
+    </task>
+    <task id="LOCAL-00010" summary="1.3">
+      <created>1669662529519</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1669662529519</updated>
+    </task>
+    <task id="LOCAL-00011" summary="1.3">
+      <created>1669662910730</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1669662910730</updated>
+    </task>
+    <task id="LOCAL-00012" summary="1.4">
+      <created>1669734634641</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1669734634642</updated>
+    </task>
+    <task id="LOCAL-00013" summary="1.4">
+      <created>1669734781369</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1669734781369</updated>
+    </task>
+    <task id="LOCAL-00014" summary="1.4">
+      <created>1669735107954</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1669735107954</updated>
+    </task>
+    <task id="LOCAL-00015" summary="1.4">
+      <created>1669736392429</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1669736392429</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1st" />
+    <MESSAGE value="1.1" />
+    <MESSAGE value="1.2" />
+    <MESSAGE value="1.3" />
+    <MESSAGE value="1.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.4" />
+  </component>
+</project>

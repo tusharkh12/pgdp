@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="245f6a31-4bc2-4d96-aa79-6a9f652f9741" name="Changes" comment="Final" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="214cbVwdcat7sDVnJKRltJNyXXs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.TriangleTest.testUngueltigGetArea">
+    <configuration name="TriangleTest.TestisInvalidEquilateral" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W03H02 - Testing ueber drei Ecken" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.triangles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.triangles" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.triangles.TriangleTest" />
+      <option name="METHOD_NAME" value="TestisInvalidEquilateral" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleTest.TestisInvalidIsosceles" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W03H02 - Testing ueber drei Ecken" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.triangles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.triangles" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.triangles.TriangleTest" />
+      <option name="METHOD_NAME" value="TestisInvalidIsosceles" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleTest.TestisIsosceles" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W03H02 - Testing ueber drei Ecken" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.triangles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.triangles" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.triangles.TriangleTest" />
+      <option name="METHOD_NAME" value="TestisIsosceles" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleTest.TestisScalene" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W03H02 - Testing ueber drei Ecken" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.triangles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.triangles" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.triangles.TriangleTest" />
+      <option name="METHOD_NAME" value="TestisScalene" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleTest.testUngueltigGetArea" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W03H02 - Testing ueber drei Ecken" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.triangles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.triangles" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.triangles.TriangleTest" />
+      <option name="METHOD_NAME" value="testUngueltigGetArea" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TriangleTest.testUngueltigGetArea" />
+        <item itemvalue="JUnit.TriangleTest.TestisScalene" />
+        <item itemvalue="JUnit.TriangleTest.TestisIsosceles" />
+        <item itemvalue="JUnit.TriangleTest.TestisInvalidEquilateral" />
+        <item itemvalue="JUnit.TriangleTest.TestisInvalidIsosceles" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="245f6a31-4bc2-4d96-aa79-6a9f652f9741" name="Changes" comment="" />
+      <created>1637203871354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637203871354</updated>
+    </task>
+    <task id="LOCAL-00001" summary="1st">
+      <created>1637207166129</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1637207166129</updated>
+    </task>
+    <task id="LOCAL-00002" summary="try">
+      <created>1637211912997</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1637211912997</updated>
+    </task>
+    <task id="LOCAL-00003" summary="try">
+      <created>1637256861373</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1637256861373</updated>
+    </task>
+    <task id="LOCAL-00004" summary="try">
+      <created>1637278729484</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1637278729484</updated>
+    </task>
+    <task id="LOCAL-00005" summary="try">
+      <created>1637278974250</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1637278974250</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Final">
+      <created>1637288230509</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1637288230509</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1st" />
+    <MESSAGE value="try" />
+    <MESSAGE value="Final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final" />
+  </component>
+</project>

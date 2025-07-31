@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d66a3e8-e4e8-4499-b2ed-67bf6a871181" name="Changes" comment="complete">
+      <change beforePath="$PROJECT_DIR$/src/pgdp/warmup/PenguWarmup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pgdp/warmup/PenguWarmup.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Gt2pBvVYWhbnJuy3HebEB5sFRP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.PenguWarmup">
+    <configuration name="PenguWarmup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pgdp.warmup.PenguWarmup" />
+      <module name="W02H01---Meet-and-Greet-in-der-Antarktis.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.warmup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitTests (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W02H01---Meet-and-Greet-in-der-Antarktis.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.warmup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.warmup" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.warmup.UnitTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitTests.checkPenguEvolutions (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W02H01---Meet-and-Greet-in-der-Antarktis.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.warmup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp.warmup" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.warmup.UnitTests" />
+      <option name="METHOD_NAME" value="checkPenguEvolutions" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitTests.checkPenguEvolutions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W02H01---Meet-and-Greet-in-der-Antarktis.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.UnitTests" />
+      <option name="METHOD_NAME" value="checkPenguEvolutions" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitTests.checkPenguPermutation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="W02H01---Meet-and-Greet-in-der-Antarktis.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgdp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgdp" />
+      <option name="MAIN_CLASS_NAME" value="pgdp.UnitTests" />
+      <option name="METHOD_NAME" value="checkPenguPermutation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UnitTests.checkPenguEvolutions (1)" />
+        <item itemvalue="Application.PenguWarmup" />
+        <item itemvalue="JUnit.UnitTests (1)" />
+        <item itemvalue="JUnit.UnitTests.checkPenguEvolutions" />
+        <item itemvalue="JUnit.UnitTests.checkPenguPermutation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d66a3e8-e4e8-4499-b2ed-67bf6a871181" name="Changes" comment="" />
+      <created>1667193739873</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667193739873</updated>
+      <workItem from="1667193741065" duration="1596000" />
+      <workItem from="1667309854291" duration="6799000" />
+      <workItem from="1667322084643" duration="1356000" />
+      <workItem from="1667339024399" duration="13000" />
+      <workItem from="1667388358105" duration="7208000" />
+      <workItem from="1667408061048" duration="3664000" />
+      <workItem from="1667459097308" duration="597000" />
+      <workItem from="1667544955805" duration="9000" />
+      <workItem from="1667638903781" duration="102000" />
+      <workItem from="1667737443687" duration="796000" />
+      <workItem from="1667744777516" duration="8816000" />
+      <workItem from="1667808170740" duration="605000" />
+      <workItem from="1667809557389" duration="624000" />
+      <workItem from="1667912481633" duration="3118000" />
+      <workItem from="1667922906709" duration="27000" />
+    </task>
+    <task id="LOCAL-00001" summary="done except 2nd part">
+      <created>1667319004194</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667319004194</updated>
+    </task>
+    <task id="LOCAL-00002" summary="done except 2nd part">
+      <created>1667319218672</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667319218672</updated>
+    </task>
+    <task id="LOCAL-00003" summary="done except 2nd part">
+      <created>1667319720465</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667319720465</updated>
+    </task>
+    <task id="LOCAL-00004" summary="done except 2nd part">
+      <created>1667320361032</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667320361032</updated>
+    </task>
+    <task id="LOCAL-00005" summary="done except 2nd part">
+      <created>1667320579431</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667320579431</updated>
+    </task>
+    <task id="LOCAL-00006" summary="done except 2nd part">
+      <created>1667320693239</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667320693239</updated>
+    </task>
+    <task id="LOCAL-00007" summary="done except 2nd part">
+      <created>1667320894858</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667320894858</updated>
+    </task>
+    <task id="LOCAL-00008" summary="done except 2nd part">
+      <created>1667320944886</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667320944886</updated>
+    </task>
+    <task id="LOCAL-00009" summary="done except 2nd part">
+      <created>1667322575603</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1667322575603</updated>
+    </task>
+    <task id="LOCAL-00010" summary="done except 2nd part">
+      <created>1667322680583</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1667322680583</updated>
+    </task>
+    <task id="LOCAL-00011" summary="complete">
+      <created>1667390643566</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1667390643566</updated>
+    </task>
+    <task id="LOCAL-00012" summary="complete">
+      <created>1667391508021</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1667391508021</updated>
+    </task>
+    <task id="LOCAL-00013" summary="complete">
+      <created>1667391633184</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1667391633184</updated>
+    </task>
+    <task id="LOCAL-00014" summary="complete">
+      <created>1667396242365</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1667396242365</updated>
+    </task>
+    <task id="LOCAL-00015" summary="complete">
+      <created>1667744929570</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1667744929570</updated>
+    </task>
+    <task id="LOCAL-00016" summary="complete">
+      <created>1667749995958</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1667749995958</updated>
+    </task>
+    <task id="LOCAL-00017" summary="complete">
+      <created>1667750123843</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1667750123843</updated>
+    </task>
+    <task id="LOCAL-00018" summary="complete">
+      <created>1667751356091</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1667751356091</updated>
+    </task>
+    <task id="LOCAL-00019" summary="complete">
+      <created>1667751471612</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1667751471612</updated>
+    </task>
+    <task id="LOCAL-00020" summary="complete">
+      <created>1667752215528</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1667752215528</updated>
+    </task>
+    <task id="LOCAL-00021" summary="complete">
+      <created>1667752321919</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1667752321919</updated>
+    </task>
+    <task id="LOCAL-00022" summary="complete">
+      <created>1667752644530</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1667752644530</updated>
+    </task>
+    <task id="LOCAL-00023" summary="complete">
+      <created>1667752767949</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1667752767949</updated>
+    </task>
+    <task id="LOCAL-00024" summary="complete">
+      <created>1667752846033</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1667752846033</updated>
+    </task>
+    <task id="LOCAL-00025" summary="complete">
+      <created>1667752918568</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1667752918568</updated>
+    </task>
+    <task id="LOCAL-00026" summary="complete">
+      <created>1667753078752</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1667753078752</updated>
+    </task>
+    <task id="LOCAL-00027" summary="complete">
+      <created>1667753203530</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1667753203530</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="done except 2nd part" />
+    <MESSAGE value="complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete" />
+  </component>
+</project>
